@@ -1,8 +1,7 @@
-﻿// This is challenge work for the "C# Players Guide"
+// This is challenge work for the "C# Players Guide"
 // This is for the Level 27 "Robotic Interface" Challenge
 // This is an update to the Level 26 "The Old Robot" Challenge using Interfaces
 // The goal is to change the abstract RobotCommand class into an IRobotCommand Interface
-// 
 
 // Make MyLittleRobot from Robot
 Robot MyLittleRobot = new Robot();
